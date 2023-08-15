@@ -1,0 +1,8 @@
+com\yupi\apicommon\model\enums\InterfaceInfoStatusEnum.class
+com\yupi\apicommon\model\vo\UserVO.class
+com\yupi\apicommon\model\entity\InterfaceInfo.class
+com\yupi\apicommon\service\InnerUserService.class
+com\yupi\apicommon\model\entity\UserInterfaceInfo.class
+com\yupi\apicommon\service\InnerUserInterfaceInfoService.class
+com\yupi\apicommon\service\InnerInterfaceInfoService.class
+com\yupi\apicommon\model\entity\User.class

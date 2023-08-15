@@ -1,0 +1,9 @@
+server:
+  port: 8123
+  servlet:
+    context-path: /api
+
+lcy:
+  client:
+    access-key: jinze
+    secret-key: abcdefg
